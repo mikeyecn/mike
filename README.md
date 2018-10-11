@@ -1,5 +1,6 @@
 # <html>
   <body>
-    <h1>welcome to git<h1>
+    <h1>welcome to Humber College<h1>
+      
   <body>
   <html>
